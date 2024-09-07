@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parhi
 - 👀 I’m interested in artifical intelligence
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (SOON)
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: We come from the future😉
